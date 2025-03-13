@@ -1,2 +1,0 @@
-# setup
-basic project setup
